@@ -1,0 +1,23 @@
+{
+  "name": "fileapi",
+  "version": "1.0.0",
+  "description": "a file system api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anmolgi1401/fileApi.git"
+  },
+  "keywords": [
+    "file",
+    "system"
+  ],
+  "author": "anmol gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anmolgi1401/fileApi/issues"
+  },
+  "homepage": "https://github.com/anmolgi1401/fileApi#readme"
+}
